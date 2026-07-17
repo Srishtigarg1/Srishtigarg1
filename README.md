@@ -1,7 +1,6 @@
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0,2,2,5,30&height=120&section=header&text=Srishti%20Garg&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=55" width="100%"/>
 
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0A66C2&height=120&section=header&text=Srishti%20Garg&fontSize=50&fontColor=ffffff&animation=blink&fontAlignY=55" width="100%"/>
 <br/>
 
 **B.Tech Electronics & Computer Engineering · TIET Patiala · CGPA 8.11 · Graduating June 2027**
