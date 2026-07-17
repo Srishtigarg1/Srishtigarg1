@@ -155,7 +155,7 @@
   <!-- Cursor -->
 
   <rect
-      x="120"
+      x="300"
       y="122"
       width="5"
       height="58"
@@ -164,7 +164,7 @@
 
       <animate
           attributeName="x"
-          values="120;645;645;120"
+          values="300;950;950;300"
           keyTimes="0;0.45;0.85;1"
           dur="5s"
           repeatCount="indefinite"/>
