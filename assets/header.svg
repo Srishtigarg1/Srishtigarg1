@@ -83,7 +83,8 @@
   <!-- Wave 1 -->
 
   <path
-    fill="rgba(255,255,255,0.08)"
+    fill="white"
+    fill-opacity="0.08"
     d="M0 250
        C180 220 280 300 450 255
        C650 205 780 300 1200 240
@@ -103,7 +104,8 @@
   <!-- Wave 2 -->
 
   <path
-    fill="rgba(255,255,255,0.04)"
+    fill="white"
+    fill-opacity="0.04"
     d="M0 275
        C200 250 380 315 600 280
        C800 245 980 315 1200 270
@@ -139,7 +141,7 @@
       x="120"
       y="170"
       clip-path="url(#typingClip)"
-      font-family="Poppins,Segoe UI,Arial,sans-serif"
+      font-family="Segoe UI, Arial, Helvetica, sans-serif"
       font-size="56"
       font-weight="700"
       fill="white"
