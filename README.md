@@ -1,11 +1,15 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0,2,2,5,30&height=140&section=header&text=Srishti%20Garg&fontSize=55&fontColor=ffffff&animation=twinkling"/>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Syne&weight=700&size=35&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Electronics+%26+Computer+Engineering;Embedded+Systems+Developer;IoT+Enthusiast;Open+Source+Learner" />
+  <img src="assets/header.svg" width="100%" alt="Header"/>
 </p>
 
-<br/>
+<h1 align="center">Hi 👋, I'm Srishti Garg</h1>
+
+<h3 align="center">
+Electronics & Computer Engineering Student • Embedded Systems • IoT
+</h3>
+
+
 
 
 
