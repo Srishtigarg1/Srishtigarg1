@@ -1,14 +1,6 @@
-
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="Header"/>
+  <img src="assets/header.svg" width="100%" alt="Hi, I'm Srishti Garg">
 </p>
-
-<h1 align="center">Hi 👋, I'm Srishti Garg</h1>
-
-<h3 align="center">
-Electronics & Computer Engineering Student • Embedded Systems • IoT
-</h3>
-
 
 
 
