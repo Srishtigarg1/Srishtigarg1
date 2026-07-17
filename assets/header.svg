@@ -126,10 +126,10 @@
 
   <defs>
     <clipPath id="typingClip">
-      <rect x="120" y="90" width="0" height="90">
+      <rect x="300" y="90" width="0" height="90">
         <animate
           attributeName="width"
-          values="0;520;520;0"
+          values="0;700;700;0"
           keyTimes="0;0.45;0.85;1"
           dur="5s"
           repeatCount="indefinite"/>
