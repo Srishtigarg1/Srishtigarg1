@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="Hi, I'm Srishti Garg">
+  <img src="assets/header.svg" width="100%" height="250">
 </p>
-
 
 
 
