@@ -152,30 +152,7 @@
 
   </text>
 
-  <!-- Cursor -->
-
-  <rect
-      x="300"
-      y="122"
-      width="5"
-      height="58"
-      rx="2"
-      fill="white">
-
-      <animate
-          attributeName="x"
-          values="300;950;950;300"
-          keyTimes="0;0.45;0.85;1"
-          dur="5s"
-          repeatCount="indefinite"/>
-
-      <animate
-          attributeName="opacity"
-          values="1;0;1"
-          dur="0.8s"
-          repeatCount="indefinite"/>
-
-  </rect>
+  
 
     <!-- Soft Highlight -->
   <ellipse
