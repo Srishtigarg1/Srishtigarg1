@@ -25,8 +25,8 @@
     </linearGradient>
 
     <!-- Text Glow -->
-    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="5" result="blur"/>
+    <filter id="glow" x="-50%" y="-50%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="4.5" result="blur"/>
       <feMerge>
         <feMergeNode in="blur"/>
         <feMergeNode in="SourceGraphic"/>
@@ -138,8 +138,9 @@
   </defs>
 
   <text
-      x="120"
+      x="600"
       y="170"
+      text-anchor="middle"
       clip-path="url(#typingClip)"
       font-family="Segoe UI, Arial, Helvetica, sans-serif"
       font-size="56"
