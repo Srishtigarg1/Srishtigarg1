@@ -1,10 +1,12 @@
 <div align="center">
 
-# Srishti Garg
+<img src="https://readme-typing-svg.demolab.com?font=Syne&weight=700&size=42&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&height=80&lines=Hi%2C+I'm+Srishti+Garg+%F0%9F%91%8B;Data+Analyst;Business+Analyst;Technology+Analyst" alt="Typing SVG" />
 
-**Data Analyst · Business Analyst · Technology Analyst**
+<br/>
 
-B.Tech Electronics & Computer Engineering · TIET Patiala · Graduating June 2027
+**B.Tech Electronics & Computer Engineering · TIET Patiala · CGPA 8.11 · Graduating June 2027**
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srishti-garg-150547254)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sgarg3_be23@thapar.edu)
