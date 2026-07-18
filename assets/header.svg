@@ -160,7 +160,7 @@
         attributeName="opacity"
         values="0;0;1;1;1;0"
         keyTimes="0;0.44;0.45;0.82;0.84;1"
-        dur="4.5s"
+        dur="5s"
         repeatCount="indefinite"/>
 
     <!-- Gentle hover while text is visible -->
@@ -201,6 +201,29 @@
         dur="5s"
         repeatCount="indefinite"/>
 
+</text>
+     <text
+    x="1068"
+    y="145"
+    font-size="18"
+    opacity="0">
+
+    🔥
+
+    <animate
+        attributeName="opacity"
+        values="0;0;0;1;1;0"
+        keyTimes="0;0.84;0.85;0.87;0.96;1"
+        dur="5s"
+        repeatCount="indefinite"/>
+
+    <animateTransform
+        attributeName="transform"
+        type="translate"
+        values="0 0;0 0;0 0;220 -80;480 -170"
+        keyTimes="0;0.84;0.85;0.92;1"
+        dur="5s"
+        repeatCount="indefinite"/>
 </text>
 
  <!-- Soft Highlight -->
