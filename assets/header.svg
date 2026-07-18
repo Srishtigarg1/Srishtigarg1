@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg"
-     viewBox="0 0 1200 320"
-     width="1200"
-     height="320">
+     viewBox="0 0 1600 240"
+     width="1600"
+     height="240">
 
   <defs>
 
@@ -38,10 +38,10 @@
   <!-- Background -->
 
   <rect
-      width="1200"
-      height="320"
-      rx="35"
-      fill="url(#bg)"/>
+    width="1600"
+    height="240"
+    rx="35"
+    fill="url(#bg)"/>
 
   <!-- Stars -->
     <g fill="white">
@@ -138,7 +138,7 @@
   </defs>
 
   <text
-      x="600"
+      x="800"
       y="170"
       text-anchor="middle"
       clip-path="url(#typingClip)"
