@@ -6,41 +6,17 @@
   <defs>
 
     <!-- Animated Background -->
-   <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
+  <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
 
-    <stop offset="0%">
-        <animate attributeName="stop-color"
-            values="
-            #5A6FF0;
-            #4D7CF5;
-            #4F8DFF;
-            #6A6CF5;
-            #5A6FF0"
-            dur="12s"
-            repeatCount="indefinite"/>
-    </stop>
+    <stop offset="0%" stop-color="#4FD1A8"/>
 
-    <stop offset="45%">
-        <animate attributeName="stop-color"
-            values="
-            #4F8DFF;
-            #64A6FF;
-            #7BAFFF;
-            #4F8DFF"
-            dur="12s"
-            repeatCount="indefinite"/>
-    </stop>
+    <stop offset="25%" stop-color="#48C7AE"/>
 
-    <stop offset="100%">
-        <animate attributeName="stop-color"
-            values="
-            #A96AF8;
-            #C05BEF;
-            #F06FB8;
-            #A96AF8"
-            dur="12s"
-            repeatCount="indefinite"/>
-    </stop>
+    <stop offset="50%" stop-color="#3FB9B7"/>
+
+    <stop offset="75%" stop-color="#318FB7"/>
+
+    <stop offset="100%" stop-color="#2B6CB0"/>
 
 </linearGradient>
     
