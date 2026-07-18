@@ -85,11 +85,11 @@
   <path
     fill="white"
     fill-opacity="0.08"
-    d="M0 250
+    d="M0 185
        C180 220 280 300 450 255
        C650 205 780 300 1200 240
-       L1200 320
-       L0 320 Z">
+       L1600 240
+       L0 240 Z">
 
     <animate
       attributeName="d"
@@ -106,11 +106,11 @@
   <path
     fill="white"
     fill-opacity="0.04"
-    d="M0 275
+    d="M0 205
        C200 250 380 315 600 280
        C800 245 980 315 1200 270
-       L1200 320
-       L0 320 Z">
+       L1600 240
+       L0 240 Z">
 
     <animate
       attributeName="d"
@@ -125,22 +125,21 @@
     <!-- Typing Animation -->
 
   <defs>
-    <clipPath id="typingClip">
-      <rect x="300" y="90" width="0" height="90">
-        <animate
-          attributeName="width"
-          values="0;700;700;0"
-          keyTimes="0;0.45;0.85;1"
-          dur="5s"
-          repeatCount="indefinite"/>
-      </rect>
-    </clipPath>
-  </defs>
+  <clipPath id="typingClip">
+    <rect x="430" y="80" width="0" height="100">
+      <animate
+        attributeName="width"
+        values="0;740;740;0"
+        keyTimes="0;0.45;0.85;1"
+        dur="5s"
+        repeatCount="indefinite"/>
+    </rect>
+  </clipPath>
+</defs>
 
   <text
-      x="800"
-      y="170"
-      text-anchor="middle"
+      x="430"
+      y="150"
       clip-path="url(#typingClip)"
       font-family="Segoe UI, Arial, Helvetica, sans-serif"
       font-size="56"
@@ -156,8 +155,8 @@
 
     <!-- Soft Highlight -->
   <ellipse
-      cx="600"
-      cy="300"
+      cx="800"
+      cy="220"
       rx="520"
       ry="90"
       fill="white"
