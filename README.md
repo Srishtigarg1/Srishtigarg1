@@ -73,7 +73,8 @@ End-to-end sales analysis on 10,000+ Walmart transactions. Built 16 SQL queries 
 
 `Python` `MySQL` `Pandas` `Streamlit` `Plotly`
 
-[View Repository →](https://github.com/srishtigarg1/walmart-sales-analytics)
+[View Repository →](https://github.com/Srishtigarg1/-walmart-sales-analytics)
+
 
 ---
 
