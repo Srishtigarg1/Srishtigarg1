@@ -160,7 +160,7 @@
         attributeName="opacity"
         values="0;0;1;1;1;0"
         keyTimes="0;0.44;0.45;0.82;0.84;1"
-        dur="5s"
+        dur="4.5s"
         repeatCount="indefinite"/>
 
     <!-- Gentle hover while text is visible -->
