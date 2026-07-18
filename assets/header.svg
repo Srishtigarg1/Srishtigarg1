@@ -145,53 +145,30 @@
 
 <!-- Rocket -->
 <!-- Orbiting Rocket -->
-<!-- Rocket -->
 <text
     x="1090"
     y="145"
-    font-size="38"
-    text-anchor="middle"
-    dominant-baseline="middle"
-    opacity="0">
+    font-size="42"
+    dominant-baseline="middle">
 
     🚀
 
-    <!-- Appear after typing -->
-    <animate
-        attributeName="opacity"
-        values="0;0;1;1"
-        keyTimes="0;0.72;0.73;1"
-        dur="5s"
-        repeatCount="indefinite"/>
-
-    <!-- Pop in -->
-    <animateTransform
-        attributeName="transform"
-        type="scale"
-        values="0;1.35;0.9;1"
-        keyTimes="0;0.82;0.9;1"
-        dur="5s"
-        repeatCount="indefinite"
-        additive="sum"/>
-
-    <!-- Gentle floating -->
-    <animate
-        attributeName="y"
-        values="145;141;145;149;145"
-        dur="2.2s"
-        repeatCount="indefinite"/>
-
-    <!-- Small tilt -->
     <animateTransform
         attributeName="transform"
         type="rotate"
-        values="-8 1090 145;8 1090 145;-8 1090 145"
-        dur="2.2s"
-        repeatCount="indefinite"
-        additive="sum"/>
+        values="-8 1170 145;8 1170 145;-8 1170 145"
+        dur="2s"
+        repeatCount="indefinite"/>
+
+    <animate
+        attributeName="y"
+        values="145;138;145;152;145"
+        dur="2s"
+        repeatCount="indefinite"/>
 
 </text>
-    <!-- Soft Highlight -->
+
+ <!-- Soft Highlight -->
   <ellipse
       cx="800"
       cy="220"
