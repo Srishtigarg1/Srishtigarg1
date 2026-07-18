@@ -220,6 +220,17 @@
     dur="5s"
     repeatCount="indefinite"/>
 
+     <animateMotion
+    begin="4.2s"
+    dur="0.8s"
+    repeatCount="indefinite"
+    rotate="auto"
+    path="
+        M1090 145
+        C1120 145 1160 130 1210 90
+        S1340 -10 1500 -120
+    "/>
+
 </text>
     
 
