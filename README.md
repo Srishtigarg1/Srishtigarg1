@@ -1,9 +1,7 @@
 <p align="center">
   <img src="assets/header.svg" width="100%">
 </p>
- <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0,2,2,5,30&height=120&section=header&text=Srishti%20Garg&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=55" width="100%"/> 
 
-how to get colours like thisss??? instead of bluish purpleish
 
 <p align="center">
 <b>B.Tech Electronics & Computer Engineering · TIET Patiala · CGPA 8.11 · Graduating June 2027</b>
