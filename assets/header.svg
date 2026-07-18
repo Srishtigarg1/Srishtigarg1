@@ -145,25 +145,60 @@
 
 <!-- Rocket -->
 <!-- Orbiting Rocket -->
+<!-- Rocket -->
 <text
     x="1090"
     y="145"
     font-size="42"
-    dominant-baseline="middle">
+    dominant-baseline="middle"
+    opacity="0">
 
     🚀
 
-    <animateTransform
-        attributeName="transform"
-        type="rotate"
-        values="-8 1170 145;8 1170 145;-8 1170 145"
+    <!-- Appear with the typed text -->
+    <animate
+        attributeName="opacity"
+        values="0;0;1;1;1;0"
+        keyTimes="0;0.44;0.45;0.82;0.84;1"
+        dur="5s"
+        repeatCount="indefinite"/>
+
+    <!-- Gentle hover while text is visible -->
+    <animate
+        attributeName="y"
+        values="145;141;145;149;145"
         dur="2s"
         repeatCount="indefinite"/>
 
-    <animate
-        attributeName="y"
-        values="145;138;145;152;145"
+    <!-- Small tilt -->
+    <animateTransform
+        attributeName="transform"
+        type="rotate"
+        values="-6 1090 145;6 1090 145;-6 1090 145"
         dur="2s"
+        repeatCount="indefinite"
+        additive="sum"/>
+
+    <!-- Fly away when erase starts -->
+    <animateTransform
+        attributeName="transform"
+        type="translate"
+        additive="sum"
+        values="
+            0 0;
+            0 0;
+            0 0;
+            0 0;
+            260 -90;
+            520 -180"
+        keyTimes="
+            0;
+            0.82;
+            0.84;
+            0.86;
+            0.93;
+            1"
+        dur="5s"
         repeatCount="indefinite"/>
 
 </text>
