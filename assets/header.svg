@@ -143,18 +143,26 @@
     Hi, I'm Srishti Garg
 </text>
 
-  
 <text
-    x="1180"
+    x="1170"
     y="145"
-    font-size="42">
+    font-size="42"
+    dominant-baseline="middle">
 
     🚀
 
-    <animateMotion
-        dur="4s"
-        repeatCount="indefinite"
-        path="M0 0 C40 -30 80 -30 120 0 C80 30 40 30 0 0"/>
+    <animateTransform
+        attributeName="transform"
+        type="rotate"
+        values="-8 1170 145;8 1170 145;-8 1170 145"
+        dur="2s"
+        repeatCount="indefinite"/>
+
+    <animate
+        attributeName="y"
+        values="145;138;145;152;145"
+        dur="2s"
+        repeatCount="indefinite"/>
 
 </text>
     <!-- Soft Highlight -->
