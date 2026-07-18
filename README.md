@@ -3,17 +3,23 @@
 </p>
 
 
+<p align="center">
+<b>B.Tech Electronics & Computer Engineering · TIET Patiala · CGPA 8.11 · Graduating June 2027</b>
+</p>
 
-**B.Tech Electronics & Computer Engineering · TIET Patiala · CGPA 8.11 · Graduating June 2027**
+<p align="center">
 
-<br/>
+<a href="YOUR_LINKEDIN_LINK">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srishti-garg-150547254)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sgarg3_be23@thapar.edu)
-[![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/yourusername)
-[![Profile Views](https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=0A66C2&label=Profile+Views)](https://github.com/yourusername)
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-</div>
+<img src="https://komarev.com/ghpvc/?username=Srishtigarg1&style=for-the-badge"/>
+
+</p>
 
 ---
 
