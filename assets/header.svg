@@ -145,26 +145,29 @@
 
 <!-- Rocket -->
 <!-- Orbiting Rocket -->
-<g>
+<!-- Rocket -->
+<text
+    font-size="40"
+    text-anchor="middle"
+    dominant-baseline="middle">
 
-    <text
-        x="1170"
-        y="145"
-        font-size="42"
-        text-anchor="middle"
-        dominant-baseline="middle">
-        🚀
-    </text>
+    🚀
 
-    <animateTransform
-        attributeName="transform"
-        type="rotate"
-        from="0 800 145"
-        to="360 800 145"
-        dur="8s"
-        repeatCount="indefinite"/>
+    <animateMotion
+        dur="7s"
+        repeatCount="indefinite"
+        rotate="auto"
 
-</g>
+        path="
+        M1150 145
+        C1180 110 1120 80 980 95
+        S720 70 620 110
+        S500 185 700 195
+        S980 205 1120 160
+        S1180 145 1150 145
+        "/>
+
+</text>
     <!-- Soft Highlight -->
   <ellipse
       cx="800"
