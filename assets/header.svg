@@ -21,16 +21,8 @@
 </linearGradient>
     
 
-    <!-- Text Glow -->
-    <filter id="glow" x="-50%" y="-50%" width="150%" height="150%">
-      <feGaussianBlur stdDeviation="4.5" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-
-  </defs>
+    
+       
 
   <!-- Background -->
 
