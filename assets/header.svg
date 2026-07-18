@@ -179,27 +179,46 @@
         repeatCount="indefinite"
         additive="sum"/>
 
-    <!-- Fly away when erase starts -->
-    <animateTransform
-        attributeName="transform"
-        type="translate"
-        additive="sum"
-        values="
-            0 0;
-            0 0;
-            0 0;
-            0 0;
-            260 -90;
-            520 -180"
-        keyTimes="
-            0;
-            0.82;
-            0.84;
-            0.86;
-            0.93;
-            1"
-        dur="5s"
-        repeatCount="indefinite"/>
+    <!-- Rotate into flight -->
+<animateTransform
+    attributeName="transform"
+    type="rotate"
+    additive="sum"
+    values="
+        0 1090 145;
+        0 1090 145;
+        0 1090 145;
+        -35 1090 145;
+        -35 1090 145"
+    keyTimes="
+        0;
+        0.82;
+        0.84;
+        0.86;
+        1"
+    dur="5s"
+    repeatCount="indefinite"/>
+     <!-- Fly away -->
+<animateTransform
+    attributeName="transform"
+    type="translate"
+    additive="sum"
+    values="
+        0 0;
+        0 0;
+        0 0;
+        80 -20;
+        220 -90;
+        420 -210"
+    keyTimes="
+        0;
+        0.82;
+        0.84;
+        0.88;
+        0.94;
+        1"
+    dur="5s"
+    repeatCount="indefinite"/>
 
 </text>
     
