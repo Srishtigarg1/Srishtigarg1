@@ -37,11 +37,14 @@
 
   <!-- Background -->
 
-  <rect
-    width="1600"
-    height="240"
-    rx="35"
-    fill="url(#bg)"/>
+  <rect x="430" y="70" width="0" height="110">
+    <animate
+        attributeName="width"
+        values="0;740;740;0"
+        keyTimes="0;0.45;0.85;1"
+        dur="5s"
+        repeatCount="indefinite"/>
+</rect>
 
   <!-- Stars -->
     <g fill="white">
@@ -137,19 +140,19 @@
   </clipPath>
 </defs>
 
-  <text
-      x="430"
-      y="150"
-      clip-path="url(#typingClip)"
-      font-family="Segoe UI, Arial, Helvetica, sans-serif"
-      font-size="56"
-      font-weight="700"
-      fill="white"
-      filter="url(#glow)">
-
-      Hi, I'm Srishti Garg
-
-  </text>
+ <text
+    x="800"
+    y="145"
+    text-anchor="middle"
+    dominant-baseline="middle"
+    clip-path="url(#typingClip)"
+    font-family="Segoe UI, Arial, Helvetica, sans-serif"
+    font-size="56"
+    font-weight="700"
+    fill="white"
+    filter="url(#glow)">
+    Hi, I'm Srishti Garg
+</text>
 
   
 
