@@ -6,22 +6,43 @@
   <defs>
 
     <!-- Animated Background -->
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+   <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
 
-      <stop offset="0%">
+    <stop offset="0%">
         <animate attributeName="stop-color"
-          values="#071A52;#0F4CFF;#6C63FF;#071A52"
-          dur="10s"
-          repeatCount="indefinite"/>
-      </stop>
+            values="
+            #5A6FF0;
+            #4D7CF5;
+            #4F8DFF;
+            #6A6CF5;
+            #5A6FF0"
+            dur="12s"
+            repeatCount="indefinite"/>
+    </stop>
 
-      <stop offset="100%">
+    <stop offset="45%">
         <animate attributeName="stop-color"
-          values="#3F5EFB;#7F5AF0;#00B4FF;#3F5EFB"
-          dur="10s"
-          repeatCount="indefinite"/>
-      </stop>
+            values="
+            #4F8DFF;
+            #64A6FF;
+            #7BAFFF;
+            #4F8DFF"
+            dur="12s"
+            repeatCount="indefinite"/>
+    </stop>
 
+    <stop offset="100%">
+        <animate attributeName="stop-color"
+            values="
+            #A96AF8;
+            #C05BEF;
+            #F06FB8;
+            #A96AF8"
+            dur="12s"
+            repeatCount="indefinite"/>
+    </stop>
+
+</linearGradient>
     </linearGradient>
 
     <!-- Text Glow -->
