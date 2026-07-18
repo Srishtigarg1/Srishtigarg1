@@ -143,28 +143,32 @@
     Hi, I'm Srishti Garg
 </text>
 
-<text
-    x="1170"
-    y="145"
-    font-size="42"
-    dominant-baseline="middle">
+<!-- Rocket -->
+<g>
 
-    🚀
+    <text
+        x="1190"
+        y="145"
+        font-size="40"
+        text-anchor="middle"
+        dominant-baseline="middle">
 
-    <animateTransform
-        attributeName="transform"
-        type="rotate"
-        values="-8 1170 145;8 1170 145;-8 1170 145"
-        dur="2s"
-        repeatCount="indefinite"/>
+        🚀
 
-    <animate
-        attributeName="y"
-        values="145;138;145;152;145"
-        dur="2s"
-        repeatCount="indefinite"/>
+        <animateMotion
+            dur="8s"
+            repeatCount="indefinite"
+            rotate="auto"
 
-</text>
+            path="
+            M1190 145
+            A390 70 0 1 1 410 145
+            A390 70 0 1 1 1190 145
+            "/>
+
+    </text>
+
+</g>
     <!-- Soft Highlight -->
   <ellipse
       cx="800"
