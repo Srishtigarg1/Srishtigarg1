@@ -96,18 +96,6 @@ End-to-end fraud detection system trained on 6.3M+ PaySim transactions. Handled 
 
 ---
 
-### GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true&bg_color=ffffff&title_color=0A66C2&icon_color=0A66C2&text_color=24292f&count_private=true" />
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&hide_border=true&bg_color=ffffff&title_color=0A66C2&text_color=24292f&langs_count=6" />
-
-</div>
-
----
-
 ### Achievements & Certifications
 
 - **Entrepreneur in Making (EIM), Chandigarh** — Won state-level competition (40 teams, team of 8). Generated ₹60,000 revenue in a single day. Managed sales, marketing, accounts, and finance
